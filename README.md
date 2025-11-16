@@ -1,1 +1,13 @@
-# frontend-interview-prep-hub
+# Frontend Interview Prep Hub
+
+Это центральное хранилище ссылок на все репозитории для подготовки к собеседованиям.
+
+## Репозитории
+
+### Live Coding
+- [Live Coding](frontend-live-coding) — Практические задачи с собеседований
+
+## Полезное
+
+### Видео по собеседованиям
+- [Видео собеседований](interview-videos) — Публичные видео собеседований по разным уровням опыта (Junior / Middle / Senior)
